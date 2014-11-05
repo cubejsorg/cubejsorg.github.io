@@ -1,0 +1,9 @@
+permalink: /:year/:month/:title/
+url: http://www.nichunlong.com
+author: rookie
+timezone: Asia/Shanghai
+paginate: 20
+markdown: redcarpet
+redcarpet:
+  extensions: ["fenced_code_blocks", "tables", "highlight", "with_toc_data", "strikethrough", "underline"]
+
